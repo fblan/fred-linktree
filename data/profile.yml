@@ -1,15 +1,18 @@
-name: Ada Lovelace
-handle: "@adalovelace"
-title: Computational Pioneer
-image: ada.png
+name: Fred Blanc
+handle: "@fblanc"
+title: Software architect
+image: FredPixel.png
 bio: |
-  Ada Lovelace was a 19th-century mathematician known for her
-  visionary work on Charles Babbage's Analytical Engine.
+  Typical backend software architect.
+  I am a java fanboy and css allergic.
 tree: my-links
 social:
   - name: GitHub
-    url: https://github.com/adalovelace
+    url: https://github.com/fblan
     icon: github-logo
   - name: LinkedIn
-    url: https://www.linkedin.com/in/adalovelace
+    url: https://www.linkedin.com/in/blancfr
     icon: linkedin-logo
+  - name: Bluesky
+    url: https://bsky.app/profile/fblan.bsky.social
+    icon: butterfly
