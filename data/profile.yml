@@ -1,0 +1,15 @@
+name: Ada Lovelace
+handle: "@adalovelace"
+title: Computational Pioneer
+image: ada.png
+bio: |
+  Ada Lovelace was a 19th-century mathematician known for her
+  visionary work on Charles Babbage's Analytical Engine.
+tree: my-links
+social:
+  - name: GitHub
+    url: https://github.com/adalovelace
+    icon: github-logo
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/adalovelace
+    icon: linkedin-logo
